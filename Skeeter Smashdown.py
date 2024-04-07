@@ -6,7 +6,7 @@
                    # b) Follow curser
                    # c) Pointer stay in limited area
                    # d) Music bar actually affect volume
-                   e) setting music bg
+                   e) setting music BG
                    f) mute button
                    g) mute button affect music bar and visa verse
 5. FIX ANY BUG 
@@ -16,7 +16,7 @@ FIxES DONE:
 """
 
 import pygame, sys, random, time
-from debug import Debug   
+#from debug import Debug   
 
 print("""\nHey, Skeeter Smashdown should start in about 2-5 seconds please wait! 
 Starting for first time may take more seconds to lode!\n""")
@@ -446,7 +446,7 @@ GAME_OVER_FILL   = (200, 235, 255)   # GAEM OVER BG COLOR
 GAME_TITLE_COLOR = (250, 250, 155)   # MENU BG COLOR, SAND/CREAM    
 #GREEN2          = (0, 192, 0)
 
-print("2%")
+print("1%")
 
 # Game Set-up
 pygame.init()
@@ -510,9 +510,9 @@ about_title = cut_font.render("ABOUT", True, ABOUT_TITLE_COLOR ).convert_alpha()
 
 about_list = ["Hello, Welcome to Skeeter Smashdown,",
               "an INDIE game that I, Harshal Gahlot",
-              "have created form scratch as solo developer",
-              "and programmer. It took me over 80 hours of",
-              "Hard work to create this game. I hope you",
+              "have created from scratch as a solo developer",
+              "and programmer. It took me over 160 hours of",
+              "hard work to create this game. I hope you",
               "found it as enjoyable to play as I did to",
               "develop it. Thanks for trying it out."
               ]
