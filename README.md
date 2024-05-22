@@ -1,5 +1,5 @@
 ### About
-<b>Hello, Welcome to Skeeter Smashdown, an INDIE game that I, Harshal Gahlot have created from scratch as a solo developer and programmer. It took me over 160 hours of hard work to create this game. I hope you found it as enjoyable to play as I did to develop it. Thanks for trying it out.</b>
+<b>Hello, Welcome to Skeeter Smashdown, an INDIE game that I, Harshal Gahlot have created from scratch as a solo developer and programmer. It took me over 160 hours of hard work to create this game. I hope you found it as enjoyable to play as I did to develop it. Thanks for checking it out.</b>
 This is a game that I developed a year ago as a project to test my skills.
 
 requirements: python, python library "pygame" 
